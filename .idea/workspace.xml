@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d48fa35f-5731-4c29-82ec-d35fe94cdf97" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2q3axgmDEM5iTu5fIrb76Ie8BhN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Jest.Amital cart tests.Card button changes.executor": "Run",
+    "Jest.Amital cart tests.Card popup changes (2 items).executor": "Run",
+    "Jest.Amital cart tests.Card popup changes (3 items).executor": "Debug",
+    "Jest.Amital cart tests.Card popup changes.executor": "Run",
+    "Jest.Amital cart tests.Remove 1 item.executor": "Run",
+    "Jest.Amital cart tests.Remove multiple item.executor": "Run",
+    "Jest.Amital cart tests.Remove multiple items.executor": "Run",
+    "Jest.Amital cart tests.add 1 item & check price.executor": "Run",
+    "Jest.Amital cart tests.add 1 item.executor": "Run",
+    "Jest.Amital cart tests.add multiple items & check price.executor": "Run",
+    "Jest.Amital cart tests.executor": "Run",
+    "Jest.Example.com Tests (1).executor": "Run",
+    "Jest.Example.com Tests.executor": "Run",
+    "Jest.Example.com Tests.should have the correct title.executor": "Run",
+    "Jest.Google Homepage (1).executor": "Run",
+    "Jest.Google Homepage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "javascript.nodejs.core.library.configured.version": "20.18.1",
+    "javascript.nodejs.core.library.typings.version": "20.17.9",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/home/tim/Projects/amital-autotests/node_modules/jest",
+    "nodejs_interpreter_path": "/home/tim/.nvm/versions/node/v20.18.1/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "/opt/idea-IU-242.23339.11/plugins/javascript-plugin/jsLanguageServicesImpl/external"
+  }
+}]]></component>
+  <component name="RunManager" selected="Jest.Amital cart tests">
+    <configuration name="Amital cart tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test.js" />
+      <test-names>
+        <test-name value="Amital cart tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Amital cart tests.Card popup changes (3 items)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test.js" />
+      <test-names>
+        <test-name value="Amital cart tests" />
+        <test-name value="Card popup changes (3 items)" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Amital cart tests.Card popup changes" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test.js" />
+      <test-names>
+        <test-name value="Amital cart tests" />
+        <test-name value="Card popup changes" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Amital cart tests.Remove 1 item" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test.js" />
+      <test-names>
+        <test-name value="Amital cart tests" />
+        <test-name value="Remove 1 item" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Amital cart tests.add multiple items &amp; check price" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test.js" />
+      <test-names>
+        <test-name value="Amital cart tests" />
+        <test-name value="add multiple items &amp; check price" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Amital cart tests" />
+        <item itemvalue="Jest.Amital cart tests.Card popup changes (3 items)" />
+        <item itemvalue="Jest.Amital cart tests.Card popup changes" />
+        <item itemvalue="Jest.Amital cart tests.Remove 1 item" />
+        <item itemvalue="Jest.Amital cart tests.add multiple items &amp; check price" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d48fa35f-5731-4c29-82ec-d35fe94cdf97" name="Changes" comment="" />
+      <created>1728993425445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728993425445</updated>
+      <workItem from="1728993435399" duration="5000" />
+      <workItem from="1733893962096" duration="17577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

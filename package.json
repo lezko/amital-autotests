@@ -1,0 +1,17 @@
+{
+  "name": "amital-autotests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-puppeteer": "^10.1.4",
+    "jest-puppeteer": "^10.1.4",
+    "puppeteer": "^23.10.3"
+  }
+}
